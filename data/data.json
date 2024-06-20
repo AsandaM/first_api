@@ -1,0 +1,98 @@
+{
+    "aboutMe":"My name is Asanda Mehlo and I am a student at Life Choices", 
+    "projects":[
+        {
+            "name":"BMI Calculator",
+            "github":"https://github.com/AsandaM/bmi.git",
+            "vercel": "https://bmi-teal.vercel.app/",
+            "description":"html and css",
+            "image":"URL"
+        },
+        {
+            "name":"Hex to RGB convertor",
+            "github":"https://github.com/AsandaM/hexToRGB.git",
+            "vercel": "https://hex-to-rgb-ahsq.vercel.app/",
+            "description":"html, css and javascript",
+            "image":"URL"
+        },
+        {
+            "name":"RGB to Hex convertor",
+            "github":"https://github.com/AsandaM/RGBToHex.git",
+            "vercel": "https://rgb-to-hex-three.vercel.app/",
+            "description":"html, css and javascript",
+            "image":"URL"
+        },
+        {
+            "name":"Temparature convertor",
+            "github":"https://github.com/AsandaM/temperature.git",
+            "vercel": "https://temperature-one.vercel.app/",
+            "description":"html, css and javascript",
+            "image":"URL"
+        },
+        {
+            "name":"To-Do List",
+            "github":"https://github.com/AsandaM/toDoList.git",
+            "vercel": "https://to-do-list-peach-eta.vercel.app/",
+            "description":"html, css and javascript",
+            "image":"URL"
+        },
+        {
+            "name":"Swegga",
+            "github":"https://github.com/AsandaM/swegga.git",
+            "vercel": "https://swegga-five.vercel.app/",
+            "description":"html, css and javascript",
+            "image":"URL"
+        },
+        {
+            "name":"JavaScript EOMP",
+            "github":"https://github.com/AsandaM/JS-EOMP.git",
+            "vercel": "https://js-eomp-eta.vercel.app/",
+            "description":"html, css and javascript",
+            "image":"URL"
+        }
+    ],
+    "education":[
+        {
+            "description":"Learnership",
+            "year":"April 2024 - to current",
+            "institution":"Life Choices",
+            "contact":[
+                {
+                    "name":"Matthew",
+                    "contactDetails":"00000"
+                }
+            ]
+        },
+        {
+            "description":"High School",
+            "year":"2023",
+            "institution":"Vuyiseka Secondary"
+        },
+        {
+            "description":"Varsity",
+            "year":"2022",
+            "institution":"CPUT"
+        }
+    ],
+    "sklills":["HTML", "CSS", "JavaScript", "Vue"],
+    "workExperience":[
+        {
+            "placeOfWork":"Stats SA",
+            "year":"2023",
+            "description":"census 2023",
+            "contact":{
+                "name":"Mr Creamy",
+                "cell":"0000",
+                "position":"Manager"
+            }
+        }
+    ],
+    "testimonials":[
+        {
+            "name":"Peppa pig",
+            "postion":"CEO",
+            "message":"Lovey stuff",
+            "image":"URL"
+        }
+    ]
+}
