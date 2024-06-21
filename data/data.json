@@ -1,6 +1,8 @@
-{
-    "aboutMe":"My name is Asanda Mehlo and I am a student at Life Choices", 
-    "projects":[
+{ "data":[{
+    "aboutMe":"My name is Asanda Mehlo and I am a student at Life Choices"
+    },
+    {
+        "projects":[
         {
             "name":"BMI Calculator",
             "github":"https://github.com/AsandaM/bmi.git",
@@ -50,8 +52,9 @@
             "description":"html, css and javascript",
             "image":"URL"
         }
-    ],
-    "education":[
+    ]},
+    {
+        "education":[
         {
             "description":"Learnership",
             "year":"April 2024 - to current",
@@ -73,9 +76,12 @@
             "year":"2022",
             "institution":"CPUT"
         }
-    ],
-    "sklills":["HTML", "CSS", "JavaScript", "Vue"],
-    "workExperience":[
+    ]},
+    {
+        "sklills":["HTML", "CSS", "JavaScript", "Vue"]
+    },
+    {
+        "workExperience":[
         {
             "placeOfWork":"Stats SA",
             "year":"2023",
@@ -86,13 +92,15 @@
                 "position":"Manager"
             }
         }
-    ],
-    "testimonials":[
+    ]},
+    {
+        "testimonials":[
         {
             "name":"Peppa pig",
             "postion":"CEO",
             "message":"Lovey stuff",
             "image":"URL"
         }
-    ]
+    ]}   
+]
 }
